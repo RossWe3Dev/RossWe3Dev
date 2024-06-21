@@ -1,4 +1,4 @@
-#RossWe3Dev
+# RossWe3Dev
 
 I'm a self taught web developer currently honing my skills through The Odin Project. Building a strong foundation in HTML, CSS, and JavaScript is my initial focus. I'm also expanding my knowledge with Ruby on Rails to create dynamic web applications.
 Beyond web development, I have an interest in data analysis.
